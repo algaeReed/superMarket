@@ -1,3 +1,5 @@
 # superMarket
 
-master 分支
+Java + Servelet+Jsp
+
+代码放在 `master` 分支。
